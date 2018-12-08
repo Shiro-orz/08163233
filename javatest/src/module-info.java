@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Shiro
+ *
+ */
+module javatest {
+}
